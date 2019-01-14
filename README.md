@@ -20,5 +20,8 @@
 #### Clinical Informatics fits within the spectrum of biomedical informatics as depicted by the American Medical Informatics Association (https://www.amia.org/)
 ![Image](https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png?raw=true)
 
+### [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
+
+
 ## Beginner's Learning Resources for Programming, Data Science, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background. 
 ## Coming Soon.
