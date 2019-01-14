@@ -3,7 +3,7 @@
 ## 1. Pathology Informatics Essentials for Residents, also known as [(PIER.)](https://www.apcprods.org/m-pier)  Available during pathology residency.
 ## 2. Clinical Informatics Fellowship Programs.  [Clinical Informatics](https://www.amia.org/news-and-publications/press-release/ci-is-subspecialty) became a medical subspecialty on Sept. 22, 2011.
 ## 3. [Pathology Informatics Fellowships.](https://www.pathologyinformatics.org/pathology_informatics_training.php)
-## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning.
+## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning. The web is full of resources but it can be a daunting place to start for someone with little or no computer science background such as pathologists and other physicians. This is meant to be a gentle and informative guide to get started.  
 &nbsp;  
 
 # 1. Pathology Informatics Essentials for Residents [(PIER)](https://www.apcprods.org/m-pier)
