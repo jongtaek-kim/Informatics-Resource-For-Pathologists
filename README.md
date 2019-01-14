@@ -6,7 +6,7 @@
 #### PIER is a research-based instructional resource developed by the Association of Pathology Chairs, Association for Pathology Informatics, and College of American Pathologists that presents training topics, implementation strategies and resource options for PRODS and faculty to effectively provide informatics training to their residents and meet ACGME informatics milestone requirements. PIER is also an effective resource for aspiring specialists to develop [prerequisite pathology informatics knowledge and skills](https://www.pathologyinformatics.org/pier_and_api.php) prior to advanced training or fellowships.
 
 ![Image](https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/PIEREssentials.png?raw=true)
-#### [Source](https://www.pathologyinformatics.org/pier_and_api.php)
+#### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
 
 
