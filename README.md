@@ -18,7 +18,7 @@
 # 2. Clinical Informatics Fellowship Programs Are Available to Pathologists and Other Physicians in All 24 Specialties.
 
 ### There are over [30 ACGME-accredited Clinical Informatics Fellowship Programs](https://dev.amia.org/membership/academic-forum/clinical-informatics-fellowships) (7 based in departments of [pathology currently).](https://apps.acgme.org/ads/Public/Programs/Search?stateId=&specialtyId=383&specialtyCategoryTypeId=&numCode=&city=)
-### Rational for the Clinical Informatics Subspecialty [(source)](https://www.amia.org/clinical-informatics-board-review-course/history)
+### Rationale for the Clinical Informatics Subspecialty [(source)](https://www.amia.org/clinical-informatics-board-review-course/history)
 ### Successful health information system implementation depends in large measure on the knowledge and skills of the individuals who design, integrate, and implement these systems. While clinical informatics is multi-disciplinary in nature, there is a particular need for physicians who understand the care process, informatics concepts, and information technology. Creation of the formal subspecialty will help to standardize key elements of clinical informatics training programs and will likely increase the number of training opportunities. Further, it will provide an immediately recognized credential for organizations seeking to hire clinical informaticians. Finally, this initiative is consistent with the current national emphasis on strengthening the health information technology workforce.
 
 ### Clinical Informatics fits within the spectrum of biomedical informatics as depicted by the American Medical Informatics Association (https://www.amia.org/)
