@@ -48,7 +48,7 @@ From the perspective of the field of pathology and laboratory medicine, computat
 
 ## D. Introduction to Machine Learning
 
-## E. Advanced Machine Learning
+## E. Advanced Machine Learning (aka Deep Learning)
 
 ## F. Most Popular Machine Learning YouTube Channels
 
