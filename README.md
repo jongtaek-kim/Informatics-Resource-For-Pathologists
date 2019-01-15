@@ -27,4 +27,18 @@
 # 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
 &nbsp;  
 
-# 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background. Coming Soon.
+# 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background.  There are enormous amount of resources online to choose from. One can read anything and everything online and take classes but not everyone, especially healthcare professionals, will have the necessary time to do so. Therefore, to learn effectively, a concise outline and map to navigate through these materials would be of importance.  
+## Why do healthcare professionals need to get involved in deep learning and artificial intelligence (i.e. informatics)?
+In his 2018 [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701666), Geoffrey Hinton gives health care professionals an intuitive understanding of the technology underlying deep learning with potential to transform health care.  In accompanying [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701667), David Naylor, a physician, outlines some of the factors propelling adoption of deep learniing and artificial intelligence technology in medicine and health care. 
+
+From the perspective of the field of pathology and laboratory medicine, computational pathology is the natural discipline that are being advocated due to growth and complexity of current clinical laboratories data influx. SJ Sirintrapun, MD, opines in his [2018 ASCP article](https://academic.oup.com/ajcp/article-abstract/149/5/369/4925838?redirectedFrom=fulltext) that "Computational pathology extends on pathology informatics in leveraging innovative tools of deep learning and software development, the ramification of which requires informatics leadership to build and guide computational teams experienced in leveraging such modern tools". Before computational pathology (or even training in computational pathology) can succeed, pathologists and especially residents must decide to engage in, and build careers around, informatics and/or computation. The full article titled "Computational Pathology: A Path Ahead" can be found here.  
+
+
+&nbsp;  
+# Part 4 will be divided into the following:
+## A. Knowledge of Linux and Command Line Operations
+
+## B. 
+
+
+
