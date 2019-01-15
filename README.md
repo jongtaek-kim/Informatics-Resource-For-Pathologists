@@ -23,7 +23,6 @@
 
 #### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
-&nbsp;  
 ## 2. Clinical Informatics Fellowship Programs Are Available to Pathologists and Other Physicians in All 24 Specialties.
 
 ### There are over [30 ACGME-accredited Clinical Informatics Fellowship Programs](https://dev.amia.org/membership/academic-forum/clinical-informatics-fellowships) (7 based in departments of [pathology currently).](https://apps.acgme.org/ads/Public/Programs/Search?stateId=&specialtyId=383&specialtyCategoryTypeId=&numCode=&city=)
@@ -35,7 +34,6 @@
   <img width="500" height="500" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png">
 </p>
 
-&nbsp;  
 ## 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
 &nbsp;  
 
@@ -44,7 +42,6 @@
 In his 2018 [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701666), Geoffrey Hinton gives health care professionals an intuitive understanding of the technology underlying deep learning with potential to transform health care.  In accompanying [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701667), David Naylor, a physician, outlines some of the factors propelling adoption of deep learning and artificial intelligence technology in medicine and health care. 
 
 From the perspective of the field of pathology and laboratory medicine, computational pathology is the natural discipline that are being advocated due to advances in high-throughput laboratory and health information technologies. Louis DN et al. states in their [article ](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0034-ED?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) "Pathologists, who are at the nexus of diagnostic data, models of disease pathogenesis, and clinical correlation, are ideally positioned to provide leadership in the emerging “big data” era of medical care."  Joseph Sirintrapun, MD, opines in his 2018 [ASCP article](https://academic.oup.com/ajcp/article-abstract/149/5/369/4925838?redirectedFrom=fulltext) that "Computational pathology extends on pathology informatics in leveraging innovative tools of deep learning and software development, the ramification of which requires informatics leadership to build and guide computational teams experienced in leveraging such modern tools". Before computational pathology (or even training in computational pathology) can succeed, pathologists and especially residents must decide to engage in, and build careers around, informatics and/or computation. The full article titled "Computational Pathology: A Path Ahead" can be found [here.](https://www.ncbi.nlm.nih.gov/pubmed/26098131)  
-
 
 &nbsp;  
 ## Part 4 will be divided into the following sections:
