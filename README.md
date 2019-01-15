@@ -11,7 +11,7 @@
 <p align="center">
   <img width="280" height="150" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Learn%20to%20code%20beginner.jpg">
 </p>
-&nbsp;  
+
 
 ## 1. Pathology Informatics Essentials for Residents [(PIER)](https://www.apcprods.org/m-pier)
 
