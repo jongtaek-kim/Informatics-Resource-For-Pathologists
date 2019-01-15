@@ -35,10 +35,24 @@ From the perspective of the field of pathology and laboratory medicine, computat
 
 
 &nbsp;  
-# Part 4 will be divided into the following:
+# Part 4 will be divided into the following sections:
 ## A. Knowledge of Linux and Command Line Operations
 
-## B. 
+## B. Python and R for Data Science
+
+## C. Basics of Mathematics & Statistics
+
+## D. Introduction to Machine Learning
+
+## E. Advanced Machine Learning
+
+## F. Most Popular Machine Learning YouTube Channels
+
+## G. Introduction to Bioinformatics 
+
+## H. Bioinformatics Repositories for DNA, RNA, and Microbiome
+
+
 
 
 
