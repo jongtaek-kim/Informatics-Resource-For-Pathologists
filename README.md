@@ -35,6 +35,10 @@
 </p>
 
 ## 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
+- Henry Ford Hospital and Health System
+- University of Pittsburgh
+- Partners HealthCare- Massachusetts General, Brigham and Women's, Northshore Medical Center
+- Michigan Medicine- University of Michigan
 &nbsp;  
 
 ## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background.  There are enormous amount of resources online to choose from. One can read anything and everything online and take classes but not everyone, especially healthcare professionals, will have the necessary time to do so. Therefore, to learn effectively, a concise outline and map to navigate through these materials would be of importance.  
