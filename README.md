@@ -17,7 +17,10 @@
 
 ### Usually taken during the pathology residency/fellowship. PIER is a research-based instructional resource developed by the Association of Pathology Chairs, Association for Pathology Informatics, and College of American Pathologists that presents training topics, implementation strategies and resource options for PRODS and faculty to effectively provide informatics training to their residents and meet ACGME informatics milestone requirements. PIER is also an effective resource for aspiring specialists to develop [prerequisite pathology informatics knowledge and skills](https://www.pathologyinformatics.org/pier_and_api.php) prior to advanced training or fellowships.
 
-![Image](https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/PIEREssentials.png?raw=true)
+<p align="center">
+  <img width="650" height="650" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/PIEREssentials.png">
+</p>
+
 #### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
 &nbsp;  
@@ -28,7 +31,9 @@
 ### Successful health information system implementation depends in large measure on the knowledge and skills of the individuals who design, integrate, and implement these systems. While clinical informatics is multi-disciplinary in nature, there is a particular need for physicians who understand the care process, informatics concepts, and information technology. Creation of the formal subspecialty will help to standardize key elements of clinical informatics training programs and will likely increase the number of training opportunities. Further, it will provide an immediately recognized credential for organizations seeking to hire clinical informaticians. Finally, this initiative is consistent with the current national emphasis on strengthening the health information technology workforce.
 
 ### Clinical Informatics fits within the spectrum of biomedical informatics as depicted by the American Medical Informatics Association (https://www.amia.org/)
-![Image](https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png?raw=true)
+<p align="center">
+  <img width="500" height="500" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png">
+</p>
 
 &nbsp;  
 ## 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
