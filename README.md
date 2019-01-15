@@ -8,6 +8,9 @@
 - Partners HealthCare- Massachusetts General, Brigham and Women's, Northshore Medical Center
 - Michigan Medicine- University of Michigan
 ## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning. The web is full of resources but it can be a daunting place to start for someone with little or no computer science background such as medical students, residents, pathologists, and other physicians. This is meant to be a gentle and informative guide to get started.  
+<p align="center">
+  <img width="280" height="150" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Learn%20to%20code%20beginner.jpg">
+</p>
 &nbsp;  
 
 ## 1. Pathology Informatics Essentials for Residents [(PIER)](https://www.apcprods.org/m-pier)
