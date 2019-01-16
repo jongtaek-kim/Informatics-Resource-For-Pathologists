@@ -66,7 +66,7 @@ From the perspective of the field of pathology and laboratory medicine, computat
 
 ### G. Introduction to Bioinformatics 
 
-### H. Bioinformatics Repositories for DNA, RNA, and Microbiome
+### H. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
 
 
 
