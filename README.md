@@ -48,7 +48,7 @@ In his 2018 [JAMA article](https://jamanetwork.com/journals/jama/article-abstrac
 From the perspective of the field of pathology and laboratory medicine, computational pathology is the natural discipline that are being advocated due to advances in high-throughput laboratory and health information technologies. Louis DN et al. states in their [article ](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0034-ED?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) "Pathologists, who are at the nexus of diagnostic data, models of disease pathogenesis, and clinical correlation, are ideally positioned to provide leadership in the emerging “big data” era of medical care."  Joseph Sirintrapun, MD, opines in his 2018 [ASCP article](https://academic.oup.com/ajcp/article-abstract/149/5/369/4925838?redirectedFrom=fulltext) that "Computational pathology extends on pathology informatics in leveraging innovative tools of deep learning and software development, the ramification of which requires informatics leadership to build and guide computational teams experienced in leveraging such modern tools". Before computational pathology (or even training in computational pathology) can succeed, pathologists and especially residents must decide to engage in, and build careers around, informatics and/or computation. The full article titled "Computational Pathology: A Path Ahead" can be found [here.](https://www.ncbi.nlm.nih.gov/pubmed/26098131)  
 
 &nbsp;  
-## Part 4 will be divided into the following sections:
+## Learning will will be divided into the following sections:
 ## A. Knowledge of Linux and Command Line Operations
 
 ## B. Python and R for Data Science
