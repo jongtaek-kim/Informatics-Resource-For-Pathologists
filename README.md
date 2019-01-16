@@ -7,7 +7,8 @@
 - University of Pittsburgh
 - Partners HealthCare- Massachusetts General, Brigham and Women's, Northshore Medical Center
 - Michigan Medicine- University of Michigan
-## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning. The web is full of resources but it can be a daunting place to start for someone with little or no computer science background such as medical students, residents, pathologists, and other physicians. This is meant to be a gentle and informative guide to get started.  
+## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning. 
+The web is full of resources but it can be a daunting place to start for someone with little or no computer science background such as medical students, residents, pathologists, and other physicians. This is meant to be a gentle and informative guide to get started.  
 <p align="center">
   <img width="280" height="150" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Learn%20to%20code%20beginner.jpg">
 </p>
@@ -15,7 +16,7 @@
 
 ## 1. Pathology Informatics Essentials for Residents [(PIER)](https://www.apcprods.org/m-pier)
 
-### Usually taken during the pathology residency/fellowship. PIER is a research-based instructional resource developed by the Association of Pathology Chairs, Association for Pathology Informatics, and College of American Pathologists that presents training topics, implementation strategies and resource options for PRODS and faculty to effectively provide informatics training to their residents and meet ACGME informatics milestone requirements. PIER is also an effective resource for aspiring specialists to develop [prerequisite pathology informatics knowledge and skills](https://www.pathologyinformatics.org/pier_and_api.php) prior to advanced training or fellowships.
+Usually taken during the pathology residency/fellowship. PIER is a research-based instructional resource developed by the Association of Pathology Chairs, Association for Pathology Informatics, and College of American Pathologists that presents training topics, implementation strategies and resource options for PRODS and faculty to effectively provide informatics training to their residents and meet ACGME informatics milestone requirements. PIER is also an effective resource for aspiring specialists to develop [prerequisite pathology informatics knowledge and skills](https://www.pathologyinformatics.org/pier_and_api.php) prior to advanced training or fellowships.
 
 <p align="center">
   <img width="650" height="650" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/PIEREssentials.png">
@@ -25,11 +26,11 @@
 
 ## 2. Clinical Informatics Fellowship Programs Are Available to Pathologists and Other Physicians in All 24 Specialties.
 
-### There are over [30 ACGME-accredited Clinical Informatics Fellowship Programs](https://dev.amia.org/membership/academic-forum/clinical-informatics-fellowships) (7 based in departments of [pathology currently).](https://apps.acgme.org/ads/Public/Programs/Search?stateId=&specialtyId=383&specialtyCategoryTypeId=&numCode=&city=)
+There are over [30 ACGME-accredited Clinical Informatics Fellowship Programs](https://dev.amia.org/membership/academic-forum/clinical-informatics-fellowships) (7 based in departments of [pathology currently).](https://apps.acgme.org/ads/Public/Programs/Search?stateId=&specialtyId=383&specialtyCategoryTypeId=&numCode=&city=)
 ### Rationale for the Clinical Informatics Subspecialty [(source)](https://www.amia.org/clinical-informatics-board-review-course/history)
-### Successful health information system implementation depends in large measure on the knowledge and skills of the individuals who design, integrate, and implement these systems. While clinical informatics is multi-disciplinary in nature, there is a particular need for physicians who understand the care process, informatics concepts, and information technology. Creation of the formal subspecialty will help to standardize key elements of clinical informatics training programs and will likely increase the number of training opportunities. Further, it will provide an immediately recognized credential for organizations seeking to hire clinical informaticians. Finally, this initiative is consistent with the current national emphasis on strengthening the health information technology workforce.
+Successful health information system implementation depends in large measure on the knowledge and skills of the individuals who design, integrate, and implement these systems. While clinical informatics is multi-disciplinary in nature, there is a particular need for physicians who understand the care process, informatics concepts, and information technology. Creation of the formal subspecialty will help to standardize key elements of clinical informatics training programs and will likely increase the number of training opportunities. Further, it will provide an immediately recognized credential for organizations seeking to hire clinical informaticians. Finally, this initiative is consistent with the current national emphasis on strengthening the health information technology workforce.
 
-### Clinical Informatics fits within the spectrum of biomedical informatics as depicted by the American Medical Informatics Association (https://www.amia.org/)
+Clinical Informatics fits within the spectrum of biomedical informatics as depicted by the American Medical Informatics Association (https://www.amia.org/)
 <p align="center">
   <img width="500" height="500" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png">
 </p>
@@ -50,21 +51,21 @@ From the perspective of the field of pathology and laboratory medicine, computat
 
 &nbsp;  
 ## Learning path will be divided into the following sections:
-## A. Knowledge of Linux and Command Line Operations
+### A. Knowledge of Linux and Command Line Operations
 
-## B. Python and R for Data Science
+### B. Python and R for Data Science
 
-## C. Basics of Mathematics & Statistics
+### C. Basics of Mathematics & Statistics
 
-## D. Introduction to Machine Learning
+### D. Introduction to Machine Learning
 
-## E. Advanced Machine Learning (aka Deep Learning)
+### E. Advanced Machine Learning (aka Deep Learning)
 
-## F. Most Popular Machine Learning YouTube Channels
+### F. Most Popular Machine Learning YouTube Channels
 
-## G. Introduction to Bioinformatics 
+### G. Introduction to Bioinformatics 
 
-## H. Bioinformatics Repositories for DNA, RNA, and Microbiome
+### H. Bioinformatics Repositories for DNA, RNA, and Microbiome
 
 
 
