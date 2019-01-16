@@ -41,7 +41,8 @@
 - Michigan Medicine- University of Michigan
 &nbsp;  
 
-## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background.  There are enormous amount of resources online to choose from. One can read anything and everything online and take classes but not everyone, especially healthcare professionals, will have the necessary time to do so. Therefore, to learn effectively, a concise outline and map to navigate through these materials would be of importance.  
+## 4. Beginner's Learning Resources for Programming, Data Science, Bioinformatics, and Machine Learning for Pathologists and Other Healthcare Professionals without Computer Science Background.  
+There are enormous amount of resources online to choose from. One can read anything and everything online and take classes but not everyone, especially healthcare professionals, will have the necessary time to do so. Therefore, to learn effectively, a concise outline and map to navigate through these materials would be of importance.  
 ## Why do healthcare professionals need to get involved in deep learning and artificial intelligence (i.e. informatics)?
 In his 2018 [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701666), Geoffrey Hinton gives health care professionals an intuitive understanding of the technology underlying deep learning with potential to transform health care.  In accompanying [JAMA article](https://jamanetwork.com/journals/jama/article-abstract/2701667), David Naylor, a physician, outlines some of the factors propelling adoption of deep learning and artificial intelligence technology in medicine and health care. 
 
