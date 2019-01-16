@@ -35,7 +35,8 @@ Clinical Informatics fits within the spectrum of biomedical informatics as depic
   <img width="500" height="500" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Biomedical%20Informatics.png">
 </p>
 
-## 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
+## 3. [Pathology Informatics Fellowships](https://www.pathologyinformatics.org/pathology_informatics_training.php) are also available which long predate the Clinical Informatics Fellowships (since mid 1990's).  
+These may or may not be accredited by the ACGME as clinical informatics fellowships, but through 2022, completing two years of training in a non-accredited PI program will qualify fellows to sit for the CI boards.
 - Henry Ford Hospital and Health System
 - University of Pittsburgh
 - Partners HealthCare- Massachusetts General, Brigham and Women's, Northshore Medical Center
