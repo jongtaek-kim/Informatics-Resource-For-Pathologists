@@ -52,6 +52,14 @@ From the perspective of the field of pathology and laboratory medicine, computat
 
 &nbsp;  
 ## Learning path resources will be divided into the following sections:
+For starters, attending "data carpentry" workshops available near your university is a great way to start! Workshops are usually a 1-2 day hands-on instructor-taught tutorial. Their initial target audience is **learners who have little to no prior computational experience**. These are great for learning basic essentials before starting the learnng path. There are two main ones now known as ["The Carpentries"](https://carpentries.org/).
+
+[Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
+
+[Software Carpentry](https://software-carpentry.org/workshops/) teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R)
+
+
+
 ### A. Knowledge of Linux and Command Line Operations
 
 ### B. Python and R for Data Science
