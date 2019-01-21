@@ -97,6 +97,8 @@ Introduction to R for Data Science [(edX)](https://www.edx.org/course/introducti
 
 
 ### C. Basics of Mathematics & Statistics
+The real prerequisite for informatics and machine learning is not about mastering mathematics, it's about data engineering and analysis.
+But 
 
 ### D. Introduction to Machine Learning
 
