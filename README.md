@@ -122,10 +122,15 @@ Statistical Learning [(Stanford Online)](https://lagunita.stanford.edu/courses/H
 Mathematics for Machine Learning Specialization [(coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 
+### D. Machine Learning and Deep Learning
+Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage in when studying machine learning.
 
-### D. Introduction to Machine Learning
+Machine Learning Specialization [(coursear/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
 
-### E. Advanced Machine Learning (aka Deep Learning)
+
+
+
+### E. Advanced Deep Learning Topics
 
 ### F. Most Popular Machine Learning YouTube Channels
 
