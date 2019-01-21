@@ -62,7 +62,7 @@ Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe
 
 
 ### A. Knowledge of Linux and Command Line Operations
-Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands.)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
 
@@ -102,7 +102,7 @@ The real prerequisite for informatics and machine learning is not about masterin
 Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. **However**, knowing the basic underlying mathematics and statistics, particularly in linear algebra and calculus, will allow the student to maximize his or her informatics and machine learning capacity.   
 
 An efficient way is to learn topic by topic, essential concepts first. 
-- Linear Algebra and matrix multiplication
+- Linear Algebra and Matrix Multiplication
 - Probability and Stastistics
 - Multivariate calculus
 - Optimization Theory
@@ -123,14 +123,25 @@ Mathematics for Machine Learning Specialization [(coursera)](https://www.courser
 
 
 ### D. Machine Learning and Deep Learning
-Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage in when studying machine learning.
+Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage when studying machine learning.
 
 Machine Learning Specialization [(coursear/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
 
+Deep Learning Specialization [(coursera/deeplearning.ai)](https://www.coursera.org/specializations/deep-learning)
 
+Neural Networks and Deep Learning [(coursera/deeplearning.ai)](https://www.coursera.org/learn/neural-networks-deep-learning)
 
+Introduction to Machine Learning for Coders [(fast.ai)](https://course.fast.ai/ml.html)
+
+Machine Learning Crash Course: A self-study guide for aspiring machine learning practitioners [(Google)](https://developers.google.com/machine-learning/crash-course/)
 
 ### E. Advanced Deep Learning Topics
+Convolutional Neural Networks for Visual Recognition [(CS231n:Stanford)](http://cs231n.stanford.edu/)
+
+Deep Learning for Natural Language Processing [(CS224d:Stanford)](http://cs224d.stanford.edu/)
+
+Reinforcement Learning [(CS234:Stanford)](http://web.stanford.edu/class/cs234/index.html)
+
 
 ### F. Most Popular Machine Learning YouTube Channels
 
