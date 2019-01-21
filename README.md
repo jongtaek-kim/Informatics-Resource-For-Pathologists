@@ -151,8 +151,15 @@ Most of the common informatics and machine learning libraries and tools take car
 
 
 ### G. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
+For Whole Genome, Whole Exome, and Targeted Sequencing Pipeline:
+- [Sarek](https://github.com/jongtaek-kim/Bioinformatics-Pipeline-from-Sarek)
+
+For RNAseq Pipeline:
+- [rnaseq](https://github.com/nf-core/rnaseq)
 
 
+For Microbiome Analysis Pipeline:
+- [YAMP](https://github.com/jongtaek-kim/Microbiome_Analysis)
 
 
 
