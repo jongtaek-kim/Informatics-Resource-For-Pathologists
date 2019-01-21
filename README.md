@@ -77,6 +77,8 @@ Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-comma
 ### B. Python and R for Data Science
 Introduction to Python: Absolute Beginner [(edX)](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
 
+Python from scratch [(Open Computer Science)](https://open.cs.uwaterloo.ca/python-from-scratch/)
+
 Introduction to Python for Data Science [(edX)](https://www.edx.org/course/introduction-to-python-for-data-science?source=aw&awc=6798_1548033805_210ef3c14dcb72cc96ce36a472eabfec&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
 
 Introduction to Data Science in Python [(coursera)](https://www.coursera.org/learn/python-data-analysis?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&siteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
