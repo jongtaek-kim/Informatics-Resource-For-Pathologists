@@ -62,44 +62,42 @@ Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe
 
 
 ### A. Knowledge of Linux and Command Line Operations
-Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+- Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
-Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
+- Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
 
-Introduction to Linux [(TheLinuxFoundationTraining)](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- Introduction to Linux [(TheLinuxFoundationTraining)](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
-Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs) or LinuxFoundationX [(edX)](https://www.edx.org/school/linuxfoundationx)
+- Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs) or LinuxFoundationX [(edX)](https://www.edx.org/school/linuxfoundationx)
 
-Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 
 
 ### B. Python and R for Data Science
-Introduction to Python: Absolute Beginner [(edX)](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
+- Introduction to Python: Absolute Beginner [(edX)](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
 
-Python from scratch [(Open Computer Science)](https://open.cs.uwaterloo.ca/python-from-scratch/)
+- Python from scratch [(Open Computer Science)](https://open.cs.uwaterloo.ca/python-from-scratch/)
 
-Introduction to Python for Data Science [(edX)](https://www.edx.org/course/introduction-to-python-for-data-science?source=aw&awc=6798_1548033805_210ef3c14dcb72cc96ce36a472eabfec&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
+- Introduction to Python for Data Science [(edX)](https://www.edx.org/course/introduction-to-python-for-data-science?source=aw&awc=6798_1548033805_210ef3c14dcb72cc96ce36a472eabfec&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
 
-Introduction to Data Science in Python [(coursera)](https://www.coursera.org/learn/python-data-analysis?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&siteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+- Introduction to Data Science in Python [(coursera)](https://www.coursera.org/learn/python-data-analysis?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&siteID=SAyYsTvLiGQ-bzpVCuobOg.VPKxp8fkMCw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
-Introduction to Computer Science and Programming in Python [(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) or [(edX)](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+- Introduction to Computer Science and Programming in Python [(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) or [(edX)](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
-Intro to R [(Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/)
+- Intro to R [(Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/)
 
-Introduction to R [(DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
+- Introduction to R [(DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
 
-R Programming [(RStudio)](https://www.rstudio.com/online-learning/#r-programming)
+- R Programming [(RStudio)](https://www.rstudio.com/online-learning/#r-programming)
 
-R Programming [(coursera)](https://www.coursera.org/learn/r-programming)
+- R Programming [(coursera)](https://www.coursera.org/learn/r-programming)
 
-Introduction to R for Data Science [(edX)](https://www.edx.org/course/introduction-to-r-for-data-science)
+- Introduction to R for Data Science [(edX)](https://www.edx.org/course/introduction-to-r-for-data-science)
 
 
 ### C. Basics of Mathematics & Statistics
 The real prerequisite for informatics and machine learning is not about mastering mathematics, it's about **data engineering and analysis.**
-
-Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. **However**, knowing the basic underlying mathematics and statistics, particularly in linear algebra and calculus, will allow the student to maximize his or her informatics and machine learning capacity.   
 
 An efficient way is to learn topic by topic, essential concepts first. 
 - Linear Algebra and Matrix Multiplication
@@ -107,50 +105,52 @@ An efficient way is to learn topic by topic, essential concepts first.
 - Multivariate calculus
 - Optimization Theory
 
-[Khan Academy](https://www.khanacademy.org/math) is a great resource for a targeted learning in areas you feel weakest.
+Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. **However**, knowing the basic underlying mathematics and statistics will allow the student to maximize his or her informatics and machine learning capacity.   
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is one of the most popular resource on YouTube Channel for teaching hard-to-understand mathematical concepts behind machine learning such as **backpropagation, gradienct descent, neural network.**
+- [Khan Academy](https://www.khanacademy.org/math) is a great resource for a targeted learning in areas you feel weakest.
 
-Basic Statistics [(coursera)](https://www.coursera.org/learn/basic-statistics)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is one of the most popular resource on YouTube Channel for teaching hard-to-understand mathematical concepts behind machine learning such as **backpropagation, gradienct descent, neural network.**
 
-Essential Math for Machine Learning: Python Edition [(edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
+- Basic Statistics [(coursera)](https://www.coursera.org/learn/basic-statistics)
 
-Essential Math for Machine Learning: R Edition [(edX)](https://www.coursera.org/specializations/mathematics-machine-learning)
+- Essential Math for Machine Learning: Python Edition [(edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
 
-Statistical Learning [(Stanford Online)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+- Essential Math for Machine Learning: R Edition [(edX)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
-Mathematics for Machine Learning Specialization [(coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
+- Statistical Learning [(Stanford Online)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+
+- Mathematics for Machine Learning Specialization [(coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 
 ### D. Machine Learning and Deep Learning
-Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage when studying machine learning.
+- Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage when studying machine learning.
 
-Machine Learning Specialization [(coursera/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
+- Machine Learning Specialization [(coursera/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
 
-Deep Learning Specialization [(coursera/deeplearning.ai)](https://www.coursera.org/specializations/deep-learning)
+- Deep Learning Specialization [(coursera/deeplearning.ai)](https://www.coursera.org/specializations/deep-learning)
 
-Neural Networks and Deep Learning [(coursera/deeplearning.ai)](https://www.coursera.org/learn/neural-networks-deep-learning)
+- Neural Networks and Deep Learning [(coursera/deeplearning.ai)](https://www.coursera.org/learn/neural-networks-deep-learning)
 
-Introduction to Machine Learning for Coders [(fast.ai)](https://course.fast.ai/ml.html)
+- Introduction to Machine Learning for Coders [(fast.ai)](https://course.fast.ai/ml.html)
 
-Machine Learning Crash Course: A self-study guide for aspiring machine learning practitioners [(Google)](https://developers.google.com/machine-learning/crash-course/)
+- Machine Learning Crash Course: A self-study guide for aspiring machine learning practitioners [(Google)](https://developers.google.com/machine-learning/crash-course/)
 
 ### E. Advanced Deep Learning Topics
-Convolutional Neural Networks for Visual Recognition [(CS231n:Stanford)](http://cs231n.stanford.edu/)
+- Convolutional Neural Networks for Visual Recognition [(CS231n:Stanford)](http://cs231n.stanford.edu/)
 
-Deep Learning for Natural Language Processing [(CS224d:Stanford)](http://cs224d.stanford.edu/)
+- Deep Learning for Natural Language Processing [(CS224d:Stanford)](http://cs224d.stanford.edu/)
 
-Reinforcement Learning [(CS234:Stanford)](http://web.stanford.edu/class/cs234/index.html)
+- Reinforcement Learning [(CS234:Stanford)](http://web.stanford.edu/class/cs234/index.html)
 
 
 ### F. Most Popular Machine Learning YouTube Channels
 
 ### G. Introduction to Bioinformatics 
-Introduction to the Command Line for Genomics [(datacarpentry)](https://datacarpentry.org/wrangling-genomics/)
+- Introduction to the Command Line for Genomics [(datacarpentry)](https://datacarpentry.org/wrangling-genomics/)
 
-Applied Computational Genomics [(Utah Univ)](https://github.com/quinlan-lab/applied-computational-genomics)
+- Applied Computational Genomics [(Utah Univ)](https://github.com/quinlan-lab/applied-computational-genomics)
 
-Bioinformatics Specialization [(coursera/UCSanDiego)](https://www.coursera.org/specializations/bioinformatics)
+- Bioinformatics Specialization [(coursera/UCSanDiego)](https://www.coursera.org/specializations/bioinformatics)
 
 
 ### H. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
