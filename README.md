@@ -51,7 +51,7 @@ In his 2018 [JAMA article](https://jamanetwork.com/journals/jama/article-abstrac
 From the perspective of the field of pathology and laboratory medicine, computational pathology is the natural discipline that are being advocated due to advances in high-throughput laboratory and health information technologies. Louis DN et al. states in their [article ](http://www.archivesofpathology.org/doi/10.5858/arpa.2014-0034-ED?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) "Pathologists, who are at the nexus of diagnostic data, models of disease pathogenesis, and clinical correlation, are ideally positioned to provide leadership in the emerging “big data” era of medical care."  Joseph Sirintrapun, MD, opines in his 2018 [ASCP article](https://academic.oup.com/ajcp/article-abstract/149/5/369/4925838?redirectedFrom=fulltext) that "Computational pathology extends on pathology informatics in leveraging innovative tools of deep learning and software development, the ramification of which requires informatics leadership to build and guide computational teams experienced in leveraging such modern tools". Before computational pathology (or even training in computational pathology) can succeed, pathologists and especially residents must decide to engage in, and build careers around, informatics and/or computation. The full article titled "Computational Pathology: A Path Ahead" can be found [here.](https://www.ncbi.nlm.nih.gov/pubmed/26098131)  
 
 &nbsp;  
-## Learning path resources will be divided into the following sections (A-H):
+## Learning path resources will be divided into the following sections (A-G):
 For starters, attending "data carpentry" workshops available near your university is a great way to start! Workshops are usually a 1-2 day hands-on instructor-taught tutorial. Their initial target audience is **learners who have little to no prior computational experience**. These are great for learning basic essentials before starting the learnng path. There are two main ones now known as ["The Carpentries"](https://carpentries.org/). These classes are archived and freely accessible online [here.](https://datacarpentry.org/lessons/)
 
 [Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research.
@@ -142,10 +142,7 @@ Most of the common informatics and machine learning libraries and tools take car
 
 - Reinforcement Learning [(CS234:Stanford)](http://web.stanford.edu/class/cs234/index.html)
 
-
-### F. Most Popular Machine Learning YouTube Channels
-
-### G. Introduction to Bioinformatics 
+### F. Introduction to Bioinformatics 
 - Introduction to the Command Line for Genomics [(datacarpentry)](https://datacarpentry.org/wrangling-genomics/)
 
 - Applied Computational Genomics [(Utah Univ)](https://github.com/quinlan-lab/applied-computational-genomics)
@@ -153,7 +150,7 @@ Most of the common informatics and machine learning libraries and tools take car
 - Bioinformatics Specialization [(coursera/UCSanDiego)](https://www.coursera.org/specializations/bioinformatics)
 
 
-### H. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
+### G. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
 
 
 
