@@ -98,7 +98,8 @@ Introduction to R for Data Science [(edX)](https://www.edx.org/course/introducti
 
 ### C. Basics of Mathematics & Statistics
 The real prerequisite for informatics and machine learning is not about mastering mathematics, it's about **data engineering and analysis.**
-Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. However,    
+
+Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. However, knowing the basic underlying mathematics and statistics, particularly in linear algebra and calculus, will allow the student to maximize his or her informatics and machine learning capacity.   
 
 ### D. Introduction to Machine Learning
 
