@@ -74,6 +74,14 @@ Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of U
 ### B. Python and R for Data Science
 Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101)
 
+Introduction to Python: Absolute Beginner [(edX)](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
+
+Introduction to Computer Science and Programming in Python [(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) or [(edX)](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+
+
+
+
+
 
 ### C. Basics of Mathematics & Statistics
 
