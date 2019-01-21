@@ -109,7 +109,7 @@ Most of the common informatics and machine learning libraries and tools take car
 
 - [Khan Academy](https://www.khanacademy.org/math) is a great resource for a targeted learning in areas you feel weakest.
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is one of the most popular resource on YouTube Channel for teaching hard-to-understand mathematical concepts behind machine learning such as **backpropagation, gradienct descent, neural network.**
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is one of the most popular resource on YouTube Channel for teaching hard-to-understand mathematical concepts behind machine learning such as **backpropagation, gradient descent, neural network.**
 
 - Basic Statistics [(coursera)](https://www.coursera.org/learn/basic-statistics)
 
