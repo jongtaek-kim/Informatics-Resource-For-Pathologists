@@ -58,7 +58,7 @@ For starters, attending "data carpentry" workshops available near your universit
 
 [Software Carpentry](https://software-carpentry.org/workshops/) teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R)
 
-Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101) is a short course that teaches the essential ideas of computer science for a zero prior-experience aaudience. 
+Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101) is a short course that teaches the essential ideas of computer science for a zero prior-experience audience. 
 
 
 ### A. Knowledge of Linux and Command Line Operations
@@ -101,12 +101,25 @@ The real prerequisite for informatics and machine learning is not about masterin
 
 Most of the common informatics and machine learning libraries and tools take care of the advanced mathematics for you. **However**, knowing the basic underlying mathematics and statistics, particularly in linear algebra and calculus, will allow the student to maximize his or her informatics and machine learning capacity.   
 
+An efficient way is to learn topic by topic, essential concepts first. 
+- Linear Algebra and matrix multiplication
+- Probability and Stastistics
+- Multivariate calculus
+- Optimization Theory
+
+[Khan Academy](https://www.khanacademy.org/math) is a great resource for a targeted learning in areas you feel weakest.
+
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is one of the most popular resource on YouTube Channel for teaching hard-to-understand mathematical concepts behind machine learning such as **backpropagation, gradienct descent, neural network.**
+
 Basic Statistics [(coursera)](https://www.coursera.org/learn/basic-statistics)
 
 Essential Math for Machine Learning: Python Edition [(edX)](https://www.edx.org/course/essential-math-for-machine-learning-python-edition)
 
+Essential Math for Machine Learning: R Edition [(edX)](https://www.coursera.org/specializations/mathematics-machine-learning)
+
 Statistical Learning [(Stanford Online)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
+Mathematics for Machine Learning Specialization [(coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 
 
