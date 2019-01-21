@@ -69,8 +69,10 @@ Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-comma
 
 Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
 
-### B. Python and R for Data Science
+Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands.)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
+### B. Python and R for Data Science
+Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101)
 
 
 ### C. Basics of Mathematics & Statistics
