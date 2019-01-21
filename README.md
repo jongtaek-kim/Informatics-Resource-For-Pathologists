@@ -125,7 +125,7 @@ Mathematics for Machine Learning Specialization [(coursera)](https://www.courser
 ### D. Machine Learning and Deep Learning
 Machine Learning by Andrew Ng [(coursera/Stanford).](https://www.coursera.org/learn/machine-learning) This course is by far most popular and considered a rite of passage when studying machine learning.
 
-Machine Learning Specialization [(coursear/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
+Machine Learning Specialization [(coursera/Univ of Washington)](https://www.coursera.org/specializations/machine-learning)
 
 Deep Learning Specialization [(coursera/deeplearning.ai)](https://www.coursera.org/specializations/deep-learning)
 
@@ -146,6 +146,12 @@ Reinforcement Learning [(CS234:Stanford)](http://web.stanford.edu/class/cs234/in
 ### F. Most Popular Machine Learning YouTube Channels
 
 ### G. Introduction to Bioinformatics 
+Introduction to the Command Line for Genomics [(datacarpentry)](https://datacarpentry.org/wrangling-genomics/)
+
+Applied Computational Genomics [(Utah Univ)](https://github.com/quinlan-lab/applied-computational-genomics)
+
+Bioinformatics Specialization [(coursera/UCSanDiego)](https://www.coursera.org/specializations/bioinformatics)
+
 
 ### H. Bioinformatics Repositories for DNA, RNA, and Microbiome Analysis
 
