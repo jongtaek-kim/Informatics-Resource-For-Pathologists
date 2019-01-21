@@ -58,7 +58,7 @@ For starters, attending "data carpentry" workshops available near your universit
 
 [Software Carpentry](https://software-carpentry.org/workshops/) teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R)
 
-Computer Science 101 [(Stanford Online)] is a short course that teaches the essential ideas of computer science for a zero prior-experience aaudience. 
+Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe-ycscs101-sp-computer-science-101) is a short course that teaches the essential ideas of computer science for a zero prior-experience aaudience. 
 
 
 ### A. Knowledge of Linux and Command Line Operations
