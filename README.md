@@ -76,11 +76,19 @@ Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe
 
 Introduction to Python: Absolute Beginner [(edX)](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
 
+Introduction to Python for Data Science [(edX)](https://www.edx.org/course/introduction-to-python-for-data-science?source=aw&awc=6798_1548033805_210ef3c14dcb72cc96ce36a472eabfec&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
+
 Introduction to Computer Science and Programming in Python [(MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) or [(edX)](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
+Intro to R [(Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/)
 
+Introduction to R [(DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
 
+R Programming [(RStudio)](https://www.rstudio.com/online-learning/#r-programming)
 
+R Programming [(coursera)](https://www.coursera.org/learn/r-programming)
+
+Introduction to R for Data Science [(edX)](https://www.edx.org/course/introduction-to-r-for-data-science)
 
 
 ### C. Basics of Mathematics & Statistics
