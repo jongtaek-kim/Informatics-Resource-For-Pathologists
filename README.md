@@ -61,8 +61,17 @@ For starters, attending "data carpentry" workshops available near your universit
 
 
 ### A. Knowledge of Linux and Command Line Operations
+Introduction to Linux [(TheLinuxFoundationTraining)](https://training.linuxfoundation.org/training/introduction-to-linux/)
+
+Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs) or LinuxFoundationX [(edX)](https://www.edx.org/school/linuxfoundationx)
+
+Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
+
+Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
 
 ### B. Python and R for Data Science
+
+
 
 ### C. Basics of Mathematics & Statistics
 
