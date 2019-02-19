@@ -159,7 +159,7 @@ For RNAseq Pipeline:
 
 
 For Microbiome Analysis Pipeline:
-- [YAMP](https://github.com/jongtaek-kim/Microbiome_Analysis)
+- [YAMP](https://github.com/jongtaek-kim/Microbiome_and_Metagenome)
 
 
 
