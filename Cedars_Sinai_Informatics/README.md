@@ -35,4 +35,4 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 
 
 
-## 4. RNA-seq Analysis wih R Programming
+## 4. RNA-seq Analysis with R Programming
