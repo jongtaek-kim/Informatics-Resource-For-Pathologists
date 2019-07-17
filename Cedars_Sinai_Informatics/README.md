@@ -15,7 +15,7 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 ### Setting Up Your Computer for Programming Tutorials
 #### Install Miniconda which contains the conda package manager and comes with Jupyter Notebook and several other tools that are useful for working in Python with scientific data. Once Miniconda is installed, you can use the conda command to install any other packages. For example:
 ```bash
-$ conda install numpy
+$ conda install pandas
 ```
 &nbsp; 
 #### A) If you have Windows Operating System, download the Miniconda installer for Windows [(here)](https://docs.conda.io/en/latest/miniconda.html). Instructions are [(here)](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html). Be sure to download the Python 3.7 version!
