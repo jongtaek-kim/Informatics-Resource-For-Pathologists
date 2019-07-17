@@ -12,9 +12,26 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 #### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
 ## 2. Introduction to Linux Command Line 
+### Setting Up Your Computer for Programming Tutorials
+#### Install Miniconda: Miniconda installers contain the conda package manager and comes with Jupyter Notebook and several other tools that are useful for working in Python with scientific data. Once Miniconda is installed, you can use the conda command to install any other packages. For example:
 
+```bash
+$ conda install numpy
+```
+&nbsp; 
+#### If you have Windows Operating System, download the Miniconda installer for Windows [(here)](https://docs.conda.io/en/latest/miniconda.html). Instructions are [(here)](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html). Be sure to download the Python 3.7 version!
 
+&nbsp;  
 
+#### If you have Mac OS, download the MiniConda installer for Mac [(here)](https://docs.conda.io/en/latest/miniconda.html). Instructions are [(here)](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html). Be sure to download the Python 3.7 version! After downloading, run the following in your terminal:
+
+```bash
+$ bash Miniconda3-latest-MacOSX-x86_64.sh
+```
+
+&nbsp;  
+
+#### If you have Linux OS such as Ubuntu or Debian, download the MiniConda installer for Linux [(here)](https://docs.conda.io/en/latest/miniconda.html). Be sure to download the Python 3.7 version!
 
 &nbsp;  
 
