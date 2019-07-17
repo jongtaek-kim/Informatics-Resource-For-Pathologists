@@ -25,7 +25,7 @@ $ conda install pandas
 $ bash Miniconda3-latest-MacOSX-x86_64.sh
 ```
 &nbsp;  
-#### C) If you have Linux OS such as Ubuntu or Debian, download the Miniconda installer for Linux [(here)](https://docs.conda.io/en/latest/miniconda.html). Be sure to download the Python 3.7 version!
+#### C) If you have Linux OS such as Ubuntu or Debian, download the Miniconda installer for Linux [(here)](https://docs.conda.io/en/latest/miniconda.html). Be sure to download the Python 3.7 version! After downloading, run the following in your terminal:
 ```bash
 $ bash Miniconda3-latest-Linux-x86_64.sh
 ```
