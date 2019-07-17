@@ -11,7 +11,7 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 
 #### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
-## 2. Introduction to Linux Command Line and Basic Programming
+## 2. Introduction to Linux Command Line
 
 
 
