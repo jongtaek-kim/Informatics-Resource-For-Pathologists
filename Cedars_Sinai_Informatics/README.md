@@ -11,7 +11,7 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 
 #### [Image Source](https://www.pathologyinformatics.org/pier_and_api.php)
 
-## 2. Introduction to Linux Command Line
+## 2. Introduction to Linux Command Line 
 
 
 
@@ -29,7 +29,7 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 
 
 
-## 3. Introduction to NGS Variant Calling
+## 3. Introduction to NGS Variant Calling Tutorial
 
 
 
@@ -44,4 +44,4 @@ Usually taken during the pathology residency/fellowship. PIER is a research-base
 
 
 
-## 4. RNA-seq Analysis with R Programming
+## 4. RNA-seq Gene Expression Analysis with R Programming
