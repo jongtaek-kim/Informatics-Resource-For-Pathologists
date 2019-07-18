@@ -35,7 +35,7 @@ We will use a Docker container for this tutorial.  A Docker container is a stand
 
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Docker-logo-011.png">
+  <img width="300" height="200" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/Docker-logo-011.png">
 </p>
 
 
