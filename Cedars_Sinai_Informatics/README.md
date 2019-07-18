@@ -40,4 +40,4 @@ $ bash Miniconda3-latest-Linux-x86_64.sh
 
 
 
-## 4. RNA-seq Gene Expression Analysis with R Programming
+## 4. RNA-Seq Gene Expression Analysis with R Programming
