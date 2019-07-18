@@ -28,7 +28,7 @@ $ bash Miniconda3-latest-Linux-x86_64.sh
 ## 3. Introduction to NGS Variant Calling Tutorial
 
 <p align="center">
-  <img width="600" height="400" src="">
+  <img width="600" height="400" src="https://github.com/jongtaek-kim/Informatics-Resource-For-Pathologists/blob/master/docs/images/variant.calling.png">
 </p>
 
 We will use a Docker container for this tutorial.  A Docker container is a standalone, executable package of software that includes all the tools needed to run an application code.  A Docker container was created for this tutorial. Instruction for installing Docker is [(here)](https://docs.docker.com/v17.12/install/). Make sure to install the right one (either Windows or Mac). 
