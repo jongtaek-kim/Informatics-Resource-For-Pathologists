@@ -56,6 +56,21 @@ After installing Docker, pull the container we'll use for this tutorial.
 $ docker pull jtk622/intro_ngs:1
 ```
 
+Run the container we just pulled.
+
+For Windows:
+
+```bash
+$ docker run -ti -v ~/Documents/:/data/ jtk622/intro_ngs:1
+```
+
+For Linux:
+
+```bash
+$ sudo docker run -ti -v ~/Documents/:/data/ jtk622/intro_ngs:1
+
+```
+
 &nbsp;  
 
 
@@ -68,3 +83,4 @@ $ docker pull jtk622/intro_ngs:1
 
 
 ## 4. RNA-Seq Gene Expression Analysis with R Programming
+
