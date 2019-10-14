@@ -68,7 +68,7 @@ Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe
 
 - Introduction to Linux [(TheLinuxFoundationTraining)](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
-- Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs) or LinuxFoundationX [(edX)](https://www.edx.org/school/linuxfoundationx)
+- Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs)
 
 - Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
