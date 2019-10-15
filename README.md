@@ -64,13 +64,10 @@ Computer Science 101 [(Stanford Online)](https://online.stanford.edu/courses/soe
 ### A. Knowledge of Linux and Command Line Operations
 - Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
-- Linux For Absolute Beginners [(Eduonix)](https://www.mooc-list.com/course/linux-absolute-beginners-eduonix)
-
-- Introduction to Linux [(TheLinuxFoundationTraining)](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 - Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs)
 
-- Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 
 
